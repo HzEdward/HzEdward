@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my undergraduate final year project 
-- 📫 How to reach me: edwardqirendong@163.com
+- 🔭 I'm currently pursuing the PhD in Neurolinguistics, in Chinese University of Hong Kong, Shatin.
+- 📫 How to reach me: 1155208916@link.cuhk.edu.hk
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm interested in brain science and psychology! And how deep learning could be applied to them!
+- ⚡ More about me: Qiren Dong obtained a BSc Computer Science from University College London with the minor in Biomedical Engineering. His principal research interests are in the fields of speech perception and language acquisition, and in the application of deep learning to neurolinguistics (e.g. brain encoding and decoding).
+
+
 
